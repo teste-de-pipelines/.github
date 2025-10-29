@@ -9,4 +9,3 @@
 - Dominar a publicação de pacotes NuGet e Docker, assegurando a eficiência no desenvolvimento.
 - Integração com “pushes”, “pull requests” e explore recursos extras.
 - Segurança e estratégias avançadas.
-- Dominar o GitHub Actions e saber tudo sobre essa ferramenta fantástica de automação.
