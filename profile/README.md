@@ -1,4 +1,4 @@
-# Treinamento de Github Actions
+# Treinamento de Github Actions 🚀
 
 ## Conteúdo do curso
 
@@ -10,4 +10,4 @@
 - Integração com “pushes”, “pull requests” e explore recursos extras.
 - Segurança e estratégias avançadas.
 
-Certificado: https://lnkd.in/gSb8eKWy 📚🚀💻
+📚 Certificado: https://lnkd.in/gSb8eKWy
