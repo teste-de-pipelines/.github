@@ -9,3 +9,5 @@
 - Dominar a publicação de pacotes NuGet e Docker, assegurando a eficiência no desenvolvimento.
 - Integração com “pushes”, “pull requests” e explore recursos extras.
 - Segurança e estratégias avançadas.
+
+Certificado: https://lnkd.in/gSb8eKWy 📚🚀💻
